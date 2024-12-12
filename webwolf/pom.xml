@@ -8,6 +8,7 @@
         <artifactId>webgoat-parent</artifactId>
         <version>8.2.3-SNAPSHOT</version>
     </parent>
+<!-- This is a comment-->
 
     <dependencies>
     	<dependency>
